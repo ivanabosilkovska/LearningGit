@@ -9,6 +9,7 @@ public class NewClass {
         System.out.println("Amend command");
         System.out.println("Hello");
         System.out.println("pushing changes");
+        System.out.println("Hello again");
 
     }
 

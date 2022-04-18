@@ -11,6 +11,9 @@ public class NewClass {
         System.out.println("pushing changes");
         System.out.println("Hello again");
 
+        System.out.println("Adding all our automated tests");
+        System.out.println("adding validations");
+
     }
 
     // ova e komentar

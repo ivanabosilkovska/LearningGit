@@ -5,6 +5,8 @@ public class NewClass {
     public static void main(String[] args) {
 
         System.out.println("Learning Git workflow!");
+        System.out.println("Learning to commit our code!");
+        System.out.println("Amend command");
 
     }
 

@@ -4,6 +4,8 @@ public class NewClass {
 
     public static void main(String[] args) {
 
+        System.out.println("Learning Git workflow!");
+
     }
 
     // ova e komentar

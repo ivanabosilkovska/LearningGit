@@ -8,8 +8,6 @@ public class NewClass {
         System.out.println("Learning to commit our code!");
         System.out.println("Amend command");
         System.out.println("Hello");
-        System.out.println("Another amend");
-        System.out.println("revert");
 
     }
 
